@@ -1,8 +1,8 @@
-\# Tech Operations \& Fulfillment Analytics
+# Tech Operations & Fulfillment Analytics
 
+**Project Highlight:** I found that just 3 devices were responsible for 60% of all repair events, showing that most of the repair problems came from a small group of devices.
 
-
-\## Project Overview
+## Project Overview
 
 
 
